@@ -1,17 +1,17 @@
 # Intro to Data Analysis
 Introduction to Data Analysis with Python for UW Foster School of Business
 
-## Welcome to the Course (syllabus)
+## [Welcome to the Course](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Welcome%20to%20Class.ipynb)
 
 ## Session 1: Introduction to Pandas for Data Analysis
-### Introduction to Data Analysis 
-### Introduction to Pandas
-### Working with Pandas Dataframes
+### [Data Analysis Overview](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Data%20Analysis%20Overview.ipynb)
+### [Introduction to Pandas](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Intro%20to%20Pandas.ipynb)
+### [Working with Pandas Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Pandas%20DataFrames.ipynb)
 ### Concatenate/Join/Merge Dataframes 
 ### Lab 1: Working with Dataframes
 ### Reading and Writing Data in Pandas
-### Grouping Dataframes
-### Math in Pandas
+### [Grouping Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Grouping%20Data%20Frames.ipynb)
+### [Math in Pandas](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Pandas%20Math.ipynb)
 ### Lab 2: Pandas Math
 ### HW1
 
