@@ -7,7 +7,7 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [Data Analysis Overview](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Data%20Analysis%20Overview.ipynb)
 ### [Introduction to Pandas](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Intro%20to%20Pandas.ipynb)
 ### [Working with Pandas Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Pandas%20DataFrames.ipynb) 
-### Lab 1: Working with Dataframes
+### [Lab 1: Working with Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/labs/Working%20With%20Pandas%20DataFrames.ipynb)
 ### [Reading and Writing Data in Pandas](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Reading%20and%20Writing%20Data%20with%20Pandas.ipynb)
 ### [Lab 2:  Basic Pandas Operations](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/labs/Pandas%20Math.ipynb)
 ### HW1
