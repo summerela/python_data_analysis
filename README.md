@@ -14,9 +14,9 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [HW1](https://github.com/summerela/python_data_analysis/blob/master/Homework/HW1.ipynb)
 
 ## Session 2: Data Munging in Pandas
-### Concatenate/Join/Merge Dataframes
+### [Concatenate/Join/Merge Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Concatenate_Join_Merge.ipynb)
 ### [Grouping Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Grouping%20Data%20Frames.ipynb)
-### Importance of Shaping your Data
+### Importance of Cleaning your Data
 ### Reading in Messy Data
 ### Working with Common Data Formats
 ### Dealing with Missing Values
