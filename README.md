@@ -16,46 +16,45 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ## Class 2: Data Cleaning and Munging in Pandas
 ### [Concatenate/Join/Merge Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Concatenate_Join_Merge.ipynb)
 ### [Grouping Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Grouping%20Data%20Frames.ipynb)
-### Importance of Cleaning your Data
-### Reading in Messy Data
+### Lab 1: 
+### [Importance of Cleaning your Data](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Notebooks/Importance%20of%20Cleaning%20Data.ipynb)
+### Cleaning Messy Data
 ### Working with Common Data Formats
 ### Dealing with Missing Values
 ### Checking for Outliers
 ### Lab 2: 
+### HW2
+
+## Class 3: Normalizing and Exploratory Data Analysis
 ### Binning Data
 ### Normalization
 ### One-Hot Encoding
-### Lab 2: 
-### HW2
-
-## Class 3: Exploratory Data Analysis and Visualization
+### Lab 1: 
 ### Evaluating the quality of your dataset
 ### Categorical vs Numerica Data
 ### Summary Statistics
 ### Frequency Tables for Categorical Data
-### Lab 1: 
-### Quantiles
-### Bar Charts
-### Histograms
-### Box Plots
 ### Lab 2: 
 ### HW3
+
+
 
 ## Class 4: Linear Regression and Visualization
 ### Finding Relationships in your Data
 ### Building a Univariate Linear Regression Model 
+### Lab 1: Building a Linear Model
 ### Evaluating your model: Ordinary Least Squares
-### Lab 1: Building and Evaluating a Linear Model
 ### Multiple Linear Regression
-### Visualizing and Interpreting Results
-### Lab 2: Visualizing and Interpreting Linear Regression
+### Lab 2: Multiple Linear Regression 
 ### HW4
 
-## Class 5: Logistic Regression and Visualization
-### Regression on Categorical Variables
-### Building a Binary Logistic Model
-### Visualizing and Evalauting Results
-### Lab 1: Logistic Regression
+
+## Class 5: Interpretation and Visualization
+### Quantiles
+### Bar Charts
+### Histograms
+### Box Plots
+### Lab 1: Visualization
 ### Interpreting and Reporting Results
-### 
+### Lab 2: 
 ### Final Project
