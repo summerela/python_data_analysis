@@ -18,26 +18,23 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [Grouping Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Grouping%20Data%20Frames.ipynb)
 ### Lab 1: 
 ### [Importance of Cleaning your Data](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Notebooks/Importance%20of%20Cleaning%20Data.ipynb)
-### Cleaning Messy Data
-### Working with Common Data Formats
+### [Cleaning Messy Data](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Notebooks/Messy%20Data.ipynb)
 ### Dealing with Missing Values
-### Checking for Outliers
 ### Lab 2: 
 ### HW2
 
 ## Class 3: Normalizing and Exploratory Data Analysis
+### Evaluating the quality of your dataset
+### Checking for Outliers
 ### Binning Data
 ### Normalization
 ### One-Hot Encoding
 ### Lab 1: 
-### Evaluating the quality of your dataset
 ### Categorical vs Numerica Data
 ### Summary Statistics
 ### Frequency Tables for Categorical Data
 ### Lab 2: 
 ### HW3
-
-
 
 ## Class 4: Linear Regression and Visualization
 ### Finding Relationships in your Data
@@ -47,7 +44,6 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### Multiple Linear Regression
 ### Lab 2: Multiple Linear Regression 
 ### HW4
-
 
 ## Class 5: Interpretation and Visualization
 ### Quantiles
