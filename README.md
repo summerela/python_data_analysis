@@ -21,10 +21,10 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [Cleaning Messy Data](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Notebooks/Messy%20Data.ipynb)
 ### [Handling Missing Values](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Notebooks/Dealing%20with%20Missing%20Values.ipynb)
 ### [Lab 2: Missing Values](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Labs/Missing%20Values%20Lab.ipynb)
-### [HW2]
+### [HW2](https://github.com/summerela/python_data_analysis/blob/master/Homework/HW2.ipynb)
 
-## Class 3: Normalizing and Exploratory Data Analysis
-### Evaluating the quality of your dataset
+## Class 3: Exploratory Data Analysis
+### Exploratory Data Analysis
 ### Checking for Outliers
 ### Binning Data
 ### Normalization
