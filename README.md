@@ -24,7 +24,7 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [HW2](https://github.com/summerela/python_data_analysis/blob/master/Homework/HW2.ipynb)
 
 ## Class 3: Exploratory Data Analysis
-### Exploratory Data Analysis
+### [Exploratory Data Analysis](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Exploratory%20Data%20Analysis.ipynb)
 ### Checking for Outliers
 ### Binning Data
 ### Normalization
