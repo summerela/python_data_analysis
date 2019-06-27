@@ -16,7 +16,7 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ## Class 2: Data Cleaning and Munging in Pandas
 ### [Concatenate/Join/Merge Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Concatenate_Join_Merge.ipynb)
 ### [Grouping Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Grouping%20Data%20Frames.ipynb)
-### Lab 1: 
+### [Lab 1:](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Labs/Merging%20and%20Grouping%20Lab.ipynb) 
 ### [Importance of Cleaning your Data](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Notebooks/Importance%20of%20Cleaning%20Data.ipynb)
 ### [Cleaning Messy Data](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Notebooks/Messy%20Data.ipynb)
 ### Dealing with Missing Values
