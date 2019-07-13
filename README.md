@@ -14,13 +14,13 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [HW1](https://github.com/summerela/python_data_analysis/blob/master/Homework/HW1.ipynb)
 
 ## Class 2: Data Cleaning and Munging in Pandas
-### [Concatenate/Join/Merge Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Concatenate_Join_Merge.ipynb)
-### [Grouping Dataframes](https://github.com/summerela/python_data_analysis/blob/master/pandas_basics/notebooks/Grouping%20Data%20Frames.ipynb)
-### [Lab 1: Merging and Grouping](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Labs/Merging%20and%20Grouping%20Lab.ipynb) 
-### [Importance of Cleaning your Data](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Notebooks/Importance%20of%20Cleaning%20Data.ipynb)
-### [Cleaning Messy Data](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Notebooks/Messy%20Data.ipynb)
-### [Handling Missing Values](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Notebooks/Dealing%20with%20Missing%20Values.ipynb)
-### [Lab 2: Missing Values](https://github.com/summerela/python_data_analysis/blob/master/Data%20Munging/Labs/Missing%20Values%20Lab.ipynb)
+### [Concatenate/Join/Merge Dataframes](https://github.com/summerela/python_data_analysis/blob/master/data_munging/Notebooks/Concatenate_Join_Merge.ipynb)
+### [Grouping Dataframes](https://github.com/summerela/python_data_analysis/blob/master/data_munging/Notebooks/Grouping%20Data%20Frames.ipynb)
+### [Lab 1: Merging and Grouping](https://github.com/summerela/python_data_analysis/blob/master/data_munging/Labs/Merging%20and%20Grouping%20Lab.ipynb) 
+### [Importance of Cleaning your Data](https://github.com/summerela/python_data_analysis/blob/master/data_munging/Notebooks/Importance%20of%20Cleaning%20Data.ipynb)
+### [Cleaning Messy Data](https://github.com/summerela/python_data_analysis/blob/master/data_munging/Notebooks/Messy%20Data.ipynb)
+### [Handling Missing Values](https://github.com/summerela/python_data_analysis/blob/master/data_munging/Notebooks/Dealing%20with%20Missing%20Values.ipynb)
+### [Lab 2: Missing Values](https://github.com/summerela/python_data_analysis/blob/master/data_munging/Labs/Missing%20Values%20Lab.ipynb)
 ### [HW2](https://github.com/summerela/python_data_analysis/blob/master/Homework/HW2.ipynb)
 
 ## Class 3: Standardizing and Exploratory Data Analysis
