@@ -26,8 +26,8 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ## Class 3: Standardizing and Exploratory Data Analysis
 ### [Exploratory Data Analysis](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Exploratory%20Data%20Analysis.ipynb)
 ### [Working with Categorical Features: One Hot Encoding](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Handling%20Categorical%20Data.ipynb)
-### Binning Continuous Variables
-### Lab 1:
+### [Binning Continuous Variables](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Binning.ipynb)
+### [Lab 1:](https://github.com/summerela/python_data_analysis/blob/master/EDA/Labs/EDA%20Lab%201.ipynb)
 ### Normalization and Scaling 
 ### Checking for a normal distribution
 ### Outlier Detection
