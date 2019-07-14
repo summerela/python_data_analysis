@@ -27,15 +27,15 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [Exploratory Data Analysis](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Exploratory%20Data%20Analysis.ipynb)
 ### [Working with Categorical Features: One Hot Encoding](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Handling%20Categorical%20Data.ipynb)
 ### [Binning Continuous Variables](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Binning.ipynb)
-### [Lab 1:](https://github.com/summerela/python_data_analysis/blob/master/EDA/Labs/EDA%20Lab%201.ipynb)
+### [Lab 1: Examining Cardiovascular Disease](https://github.com/summerela/python_data_analysis/blob/master/EDA/Labs/EDA%20Lab%201.ipynb)
 ### Normalization and Scaling 
-### Checking for a normal distribution
 ### Outlier Detection
 ### Lab 2: 
 ### HW3
 
 ## Class 4: Linear Regression and Visualization
 ### Finding Relationships in your Data
+### Checking for a normal distribution
 ### Building a Univariate Linear Regression Model 
 ### Lab 1: Building a Linear Model
 ### Evaluating your model: Ordinary Least Squares
