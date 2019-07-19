@@ -23,32 +23,30 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [Lab 2: Missing Values](https://github.com/summerela/python_data_analysis/blob/master/data_munging/Labs/Missing%20Values%20Lab.ipynb)
 ### [HW2](https://github.com/summerela/python_data_analysis/blob/master/Homework/HW2.ipynb)
 
-## Class 3: Standardizing and Exploratory Data Analysis
+## Class 3: Exploratory Data Analysis
 ### [Exploratory Data Analysis](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Exploratory%20Data%20Analysis.ipynb)
 ### [Working with Categorical Features: One Hot Encoding](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Handling%20Categorical%20Data.ipynb)
 ### [Binning Continuous Variables](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Binning.ipynb)
 ### [Lab 1: Examining Cardiovascular Disease](https://github.com/summerela/python_data_analysis/blob/master/EDA/Labs/EDA%20Lab%201.ipynb)
-### Normalization and Scaling 
-### Outlier Detection
-### Lab 2: 
+### Normalization
+### Scaling 
+### Lab 2: Norm and Scale
 ### HW3
 
-## Class 4: Linear Regression and Visualization
+## Class 4: The Normal Distribution
+### Standard Normal Distribution
+### Visualizing Distributions
+### Testing for Normality
+### Lab 1: Normality Testing
+### Outlier Detection
+### Lab 2: Detecting Outliers
+### HW4
+
+## Class 5: Linear Regression and Evaluation
 ### Finding Relationships in your Data
-### Checking for a normal distribution
 ### Building a Univariate Linear Regression Model 
 ### Lab 1: Building a Linear Model
 ### Evaluating your model: Ordinary Least Squares
-### Multiple Linear Regression
-### Lab 2: Multiple Linear Regression 
-### HW4
-
-## Class 5: Interpretation and Visualization
-### Quantiles
-### Bar Charts
-### Histograms
-### Box Plots
-### Lab 1: Visualization
+### Lab 2: Test your Model
 ### Interpreting and Reporting Results
-### Lab 2: 
 ### Final Project
