@@ -30,7 +30,7 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [Lab 1: Examining Cardiovascular Disease](https://github.com/summerela/python_data_analysis/blob/master/EDA/Labs/EDA%20Lab%201.ipynb)
 ### [Normalizing your data](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/normalization.ipynb)
 ### [Lab 2: Normalize California Housing Prices](https://github.com/summerela/python_data_analysis/blob/master/EDA/Labs/EDA_Lab2_Normalization.ipynb)
-### HW3
+### [HW3](https://github.com/summerela/python_data_analysis/blob/master/Homework/HW3.ipynb)
 
 ## Class 4: The Normal Distribution
 ### Standard Normal Distribution
