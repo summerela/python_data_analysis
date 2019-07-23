@@ -28,9 +28,8 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [Working with Categorical Features: One Hot Encoding](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Handling%20Categorical%20Data.ipynb)
 ### [Binning Continuous Variables](https://github.com/summerela/python_data_analysis/blob/master/EDA/Notebooks/Binning.ipynb)
 ### [Lab 1: Examining Cardiovascular Disease](https://github.com/summerela/python_data_analysis/blob/master/EDA/Labs/EDA%20Lab%201.ipynb)
-### Normalization
-### Scaling 
-### Lab 2: Norm and Scale
+### Normalizing your data
+### Lab 2: 
 ### HW3
 
 ## Class 4: The Normal Distribution
