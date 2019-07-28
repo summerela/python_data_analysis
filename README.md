@@ -33,10 +33,11 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [HW3](https://github.com/summerela/python_data_analysis/blob/master/Homework/HW3.ipynb)
 
 ## Class 4: The Normal Distribution
-### [Standard Normal Distribution](https://github.com/summerela/python_data_analysis/blob/master/normal_dist/notebooks/standard_dist.ipynb)
+### [Probability Distributions](https://github.com/summerela/python_data_analysis/blob/master/normal_dist/notebooks/probability_dist.ipynb)
 ### Visualizing Distributions
 ### [Testing for Normality](https://github.com/summerela/python_data_analysis/blob/master/normal_dist/notebooks/testing_normality.ipynb)
 ### Lab 1: Normality Testing
+### Correlation
 ### Outlier Detection
 ### Lab 2: Detecting Outliers
 ### HW4
