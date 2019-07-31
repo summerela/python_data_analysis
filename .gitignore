@@ -14,3 +14,4 @@ EDA/Labs/.ipynb_checkpoints/EDA_Lab2_Normalization-checkpoint.ipynb
 EDA/Labs/.ipynb_checkpoints/Lab1_AnswerKey-checkpoint.ipynb
 EDA/Notebooks/.ipynb_checkpoints/Binning-checkpoint.ipynb
 *-checkpoint.ipynb
+*.DS_Store

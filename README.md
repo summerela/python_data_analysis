@@ -36,9 +36,9 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [Probability Distributions](https://github.com/summerela/python_data_analysis/blob/master/normal_dist/notebooks/probability_dist.ipynb)
 ### [Testing for Normality](https://github.com/summerela/python_data_analysis/blob/master/normal_dist/notebooks/testing_normality.ipynb)
 ### [Lab 1: Normality Testing](https://github.com/summerela/python_data_analysis/blob/master/normal_dist/labs/Lab1_NormalityTesting.ipynb)
-### Correlation
+### Variance, Covariance and Correlation
 ### Outlier Detection
-### Lab 2: Detecting Outliers
+### Lab 2: 
 ### HW4
 
 ## Class 5: Linear Regression and Evaluation
