@@ -42,10 +42,11 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [HW4](https://github.com/summerela/python_data_analysis/blob/master/Homework/HW4.ipynb)
 
 ## Class 5: Linear Regression and Evaluation
-### Finding Relationships in your Data
-### Building a Univariate Linear Regression Model 
+### Ordinary Least Squares Linear Regression
+### Implementing Linear Regression in Sci-Kit Learn
 ### Lab 1: Building a Linear Model
 ### Evaluating your model: Ordinary Least Squares
+### Other Models (time permiting)
 ### Lab 2: Test your Model
 ### Interpreting and Reporting Results
 ### [Final Project: Due August 20th](https://github.com/summerela/python_data_analysis/blob/master/Homework/Final_Template.ipynb)
