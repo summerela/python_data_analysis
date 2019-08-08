@@ -42,11 +42,10 @@ Introduction to Data Analysis with Python for UW Foster School of Business
 ### [HW4](https://github.com/summerela/python_data_analysis/blob/master/Homework/HW4.ipynb)
 
 ## Class 5: Linear Regression and Evaluation
-### Ordinary Least Squares Linear Regression
-### Implementing Linear Regression in Sci-Kit Learn
-### Lab 1: Building a Linear Model
-### Evaluating your model: Ordinary Least Squares
-### Other Models (time permiting)
-### Lab 2: Test your Model
-### Interpreting and Reporting Results
+### [Simple Linear Regression](https://github.com/summerela/python_data_analysis/blob/master/linear_regression/Notebooks/Linear_Regression.ipynb)
+### [Implementing Linear Regression in Sci-Kit Learn](https://github.com/summerela/python_data_analysis/blob/master/linear_regression/Notebooks/sklearn_linear_regression.ipynb)
+### [Lab 1: Building a Linear Model](https://github.com/summerela/python_data_analysis/blob/master/linear_regression/Labs/lab1.ipynb)
+### [Evaluating your model](https://github.com/summerela/python_data_analysis/blob/master/linear_regression/Notebooks/Evaluating.ipynb)
+### [Other Models](https://github.com/summerela/python_data_analysis/blob/master/linear_regression/Notebooks/Other%20Models.ipynb)
+### [Lab 2](https://github.com/summerela/python_data_analysis/blob/master/linear_regression/Labs/Lab%202.ipynb)
 ### [Final Project: Due August 20th](https://github.com/summerela/python_data_analysis/blob/master/Homework/Final_Template.ipynb)
